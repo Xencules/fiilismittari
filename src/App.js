@@ -127,14 +127,14 @@ function App() {
                 </div>
             </div>
            <div>
-                {
+                {/* {
                 moodList.map((moods) => (
                     <div>
                         <h1>Mood: {moods.mood}</h1>
                         <p>Direction: {moods.direction}</p>
                         
                     </div>
-                ))}
+                ))} */}
            </div>
           
         </div>
